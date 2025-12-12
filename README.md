@@ -1,7 +1,7 @@
 Do'r Stack Software Solutions Division
 
 Vision
-Transforming local businesses through custom software solutions - from gyms to restaurants, supermarkets to plazas. We identify gaps and build comprehensive systems that drive business growth.
+Transforming businesses through custom software solutions - from gyms to restaurants, supermarkets to plazas. We identify gaps and build comprehensive systems that drive business growth.
 
 Business Model
 - Consultative Approach: Visit businesses, identify pain points, pitch solutions
